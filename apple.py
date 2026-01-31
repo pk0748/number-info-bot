@@ -2,7 +2,7 @@ import os
 import requests
 import telebot
 
-TOKEN = os.environ.get("8378347761:AAEtWjzQ7YMFMkjRk2K4AJTvvsRBstXNs6Q")
+TOKEN = os.environ.get("AAFgWImr1ND293371Z6Z4d4_OWlIGD6_u3A")
 API = "https://fuck.proportalxc.workers.dev/?num="
 
 bot = telebot.TeleBot(TOKEN)
